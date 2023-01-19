@@ -1,0 +1,26 @@
+ h1
+ {
+    text-align: center;
+ }
+ a:link{
+    color: rgb(208, 253, 6);
+ }
+ a:visited{
+    color: rgb(94, 59, 160);
+ }
+ a:hover{
+    color: blue;
+ }
+
+ #secondline{
+    color:blueviolet;
+    background-color: blanchedalmond;
+    font-style: oblique;
+    font-size:large;
+ }
+ .thirdtolastline{
+    color: palevioletred;
+    background-color: bisque;
+    font-family:'Courier New', Courier, monospace;
+    font-size: medium;
+ }
